@@ -1,0 +1,95 @@
+.body{
+
+    background-color: #EFEFEF;
+    font-family: "montserrat", sans-serif;
+
+}
+
+.logowiki{
+
+
+    margin-left: 60px;
+    width: 316.78px ;
+    height: 73px;
+}
+
+.mundo{
+    text-align: center;
+    
+}
+ol{
+    width: 1318px;
+    height: 609px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+
+
+
+.titulo1{
+
+   width: hub( 568px);
+   height: hub (59PX);
+   font-size: 48px;
+   font-weight: 700px;
+   line-height: 58px;
+   text-align: center;
+   color: #000000;
+   margin: 30px, 0px, 0px, 10px;
+
+}
+
+.hr1{
+
+    text-align: center;
+    color: black;
+    width: 450px;
+    border-bottom: solid;
+
+    
+
+}
+
+.titulo2{
+    margin: auto;
+    width: 560px ;
+    height: 59px;
+    text-align: center;
+    font-weight: 700px;
+    color: #000000;
+    line-height: 58px;
+    font-size: 48px;
+    margin-top: 200px;
+
+
+
+}
+
+.hr2{
+
+    text-align: center;
+    color: black;
+    width: 330px;
+    border-bottom: solid;
+
+
+}
+
+.lista{
+    list-style: none;
+
+}
+
+p{
+    font-weight: 700;
+    text-indent: 1.5rem;
+}
+
+
+#pveja{
+    text-align: center;
+    margin-top: 100px;
+}
+
